@@ -1,0 +1,13 @@
+/home/mister/Загрузки/PocketGoogle/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/mister/Загрузки/PocketGoogle/obj/Debug/PocketGoogle.Properties.Resources.resources
+/home/mister/Загрузки/PocketGoogle/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/mister/Загрузки/PocketGoogle/bin/Debug/Texts/0.txt
+/home/mister/Загрузки/PocketGoogle/bin/Debug/Texts/1.txt
+/home/mister/Загрузки/PocketGoogle/bin/Debug/Texts/2.txt
+/home/mister/Загрузки/PocketGoogle/bin/Debug/Texts/4.txt
+/home/mister/Загрузки/PocketGoogle/bin/Debug/PocketGoogle.exe.config
+/home/mister/Загрузки/PocketGoogle/bin/Debug/PocketGoogle.exe.mdb
+/home/mister/Загрузки/PocketGoogle/bin/Debug/PocketGoogle.exe
+/home/mister/Загрузки/PocketGoogle/obj/Debug/PocketGoogle.exe
+/home/mister/Загрузки/PocketGoogle/obj/Debug/PocketGoogle.exe.mdb
+/home/mister/Загрузки/PocketGoogle/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
